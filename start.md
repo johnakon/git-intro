@@ -15,3 +15,5 @@
 7. `git add start.txt` Adds files to staging for commit.
 
 8. `git commit -m "Initial project set up"` Commits files with descriptions.
+
+9. `git push -u refactory` 
