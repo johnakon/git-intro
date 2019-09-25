@@ -4,7 +4,7 @@
 
 3. Open the terminal
 
-4. Initialize a new repository. You initialize by typing git init
+4. Initialize a new repository. You initialize by typing `git init`
 
 5. Tell git about yourself. git config user.name This command allows you to tell git about yourself git config user.email This command allows you to configure git with your email
 
