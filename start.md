@@ -10,8 +10,8 @@
 `git config user.name` This command allows you to tell git about yourself 
 `git config user.email` This command allows you to configure git with your email
 
-6. `git status` Checks to see which files have changed
+6. `git status` Checks to see which files have changed.
 
-7. `git add start.txt` Adds files to staging for commit
+7. `git add start.txt` Adds files to staging for commit.
 
-8. `git commit -m "Initial project set up"` Commits files with descriptions
+8. `git commit -m "Initial project set up"` Commits files with descriptions.
