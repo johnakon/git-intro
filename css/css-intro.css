@@ -1,0 +1,44 @@
+h1{
+    color: purple;
+    font-size: 50px;
+}
+h2{
+    color: olive;
+}
+
+h3{
+    color: blue;
+}
+.head{
+    color: blue;
+}
+#another{
+    color: green;
+}
+
+#john{
+    font-size: 40px;
+    color:brown;
+}
+
+#mom{
+    color: green;
+    font-size: 30px;
+}
+
+#heading{
+    font-size: 15px;
+   color: grey;
+}
+
+img{
+    text-align: center;
+}
+
+.head_{
+    color: darkgoldenrod;
+}
+
+p{
+    border:2px solid grey;
+}
